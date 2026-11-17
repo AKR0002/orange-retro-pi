@@ -52,3 +52,6 @@ I've started modelling the individual components in Onshape and have moved on to
 ## Goal
 
 My goal is to make a working portable retro gaming handheld that I designed myself, from the layout to the hardware and software.
+
+<img width="1365" height="632" alt="Screenshot 2026-11-17 225221" src="https://github.com/user-attachments/assets/036ae523-c1f4-47a3-bca4-455cb0d15f1a" />
+
